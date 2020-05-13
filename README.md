@@ -1,3 +1,3 @@
 # Hello-World
 first repository
-Hi, I am Ali, a Junior scientist and trying to expand my coding knowledge.
+Hi, I am Ali, a Junior scientist striving to advance my coding skills.
